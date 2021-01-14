@@ -1,0 +1,21 @@
+{
+  "name": "cc_assig2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "exif-js": "^2.3.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "image-js": "^0.30.3",
+    "mongoose": "^5.10.13",
+    "multer": "^1.4.2",
+    "path": "^0.12.7"
+  }
+}
